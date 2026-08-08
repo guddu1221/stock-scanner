@@ -27,7 +27,7 @@ jobs:
 
       - name: Run hourly scanner
         run: |
-          python scripts/run_scanner.py hourly
+          python python scripts/run_notebook.py "scanner_hourly_v2 (1).ipynb" --outdir public/data
 
       - name: Commit scan results
         run: |
