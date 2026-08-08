@@ -24,6 +24,8 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+          pip install ipykernel
+          python -m ipykernel install --user --name python3 --display-name "Python 3"
 
       - name: Run hourly scanner
         run: |
