@@ -43,10 +43,13 @@ def first_nonempty_line(source):
 def is_force_run_cell(source):
     return any(re.search(p, source, re.I | re.M) for p in FORCE_RUN_PATTERNS)
 
-
-def should_skip(source):
+def should_skip(source, idx=None):
     if is_force_run_cell(source):
         return False
+
+    # Explicitly skip cell 9 and cell 10
+    if idx in (9, 10):
+        return True
 
     # Remove the old standalone keep-alive reference.
     if first_nonempty_line(source).lower() == "colab_keepalive.ipynb":
@@ -96,7 +99,7 @@ def main():
 
         source = cell.source or ""
 
-        if should_skip(source):
+        if should_skip(source, idx=idx):
             skipped.append(idx)
             print(f"[runner] SKIP original cell {idx}: Colab/publishing-only")
         else:
