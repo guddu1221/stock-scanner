@@ -30,6 +30,9 @@ jobs:
           python -m ipykernel install --user --name python3 --display-name "Python 3"
 
       - name: Run hourly scanner
+        env:
+            SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+            SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
           python scripts/run_notebook_fixed.py "scanner_hourly_v2_fixed.ipynb" --market india --outdir public/data
 
