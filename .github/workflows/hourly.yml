@@ -25,6 +25,8 @@ jobs:
         run: |
           pip install -r requirements.txt
           pip install ipykernel
+          pip install nbformat nbclient supabase pandas
+          python -m pip install --upgrade pip
           python -m ipykernel install --user --name python3 --display-name "Python 3"
 
       - name: Run hourly scanner
