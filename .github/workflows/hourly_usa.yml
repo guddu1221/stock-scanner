@@ -1,4 +1,4 @@
-name: Hourly Scanner
+name: Hourly Scanner usa
 
 on:
   workflow_dispatch:
