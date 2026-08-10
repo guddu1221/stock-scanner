@@ -49,5 +49,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data
-          git diff --cached --quiet || git commit -m "Update hourly scan results"
-          git push
+          git add public/data/ *.xlsx 2>/dev/null || true
+          # Only commit and push if there are changes staged
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update scanner results [skip ci]"
+            git push
+          else
+           echo "No changes detected. Skipping push."
+          fi
