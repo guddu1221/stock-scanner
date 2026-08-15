@@ -3,7 +3,8 @@ name: Hourly Scanner
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 * * * 1-5"
+    - cron: "0 4,5,7 * * 1-5" # Runs at 09:30, 10:30, and 12:30 IST (Mon-Fri)
+    - cron: "15 10 * * 1-5" # Runs at 15:45 IST (Mon-Fri)
 
 permissions:
   contents: write
