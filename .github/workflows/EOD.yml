@@ -1,0 +1,51 @@
+name: Hourly Scanner
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 * * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  hourly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install ipykernel
+          pip install nbformat nbclient supabase pandas
+          python -m pip install --upgrade pip
+          python -m ipykernel install --user --name python3 --display-name "Python 3"
+
+      - name: Run hourly scanner
+        env:
+            SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+            SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          python scripts/run_notebook_fixed.py "scanner_hourly_v2_fixed.ipynb" --market india --outdir public/data
+
+      - name: Upload Excel Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-excel-results
+          path: |
+            *.xlsx
+            public/data/*.xlsx
+
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update scanner results [skip ci]"
+          file_pattern: "public/data/* *.xlsx"
