@@ -1,4 +1,4 @@
-name: Hourly Scanner
+name: EOD_INDIA Scanner
 
 on:
   workflow_dispatch:
