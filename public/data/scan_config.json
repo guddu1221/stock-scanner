@@ -1,0 +1,170 @@
+{
+  "markets": {
+    "india": {
+      "name": "India",
+      "flag": "🇮🇳",
+      "universe": "Nifty 500",
+      "categories": {
+        "eod": {
+          "name": "EOD",
+          "description": "End-of-day stock research for the Indian market, focused on setups that may be suitable for swing and next-session research."
+        },
+        "intraday": {
+          "name": "Intraday",
+          "description": "Short-term Indian equity research using intraday price, volume and breakout conditions."
+        }
+      }
+    },
+
+    "usa": {
+      "name": "USA",
+      "flag": "🇺🇸",
+      "universe": "S&P 500 + Russell 2000",
+      "categories": {
+        "eod": {
+          "name": "EOD",
+          "description": "End-of-day research across major US equities for swing and next-session analysis."
+        },
+        "intraday": {
+          "name": "Intraday",
+          "description": "Short-term US equity research using intraday momentum, breakout and price-action conditions."
+        }
+      }
+    },
+
+    "uk": {
+      "name": "UK",
+      "flag": "🇬🇧",
+      "universe": "UK stock universe",
+      "categories": {
+        "eod": {
+          "name": "EOD",
+          "description": "End-of-day research for UK equities."
+        },
+        "intraday": {
+          "name": "Intraday",
+          "description": "Short-term UK equity research using intraday market conditions."
+        }
+      }
+    }
+  },
+
+  "scans": {
+    "momentum": {
+      "name": "Momentum",
+      "category": "intraday",
+      "timeframe": "1H",
+      "description": "Identifies stocks meeting the predefined momentum conditions.",
+      "entry_method": "Wait for confirmation of the setup rather than entering solely because the stock appears in the scan.",
+      "exit_method": "Reassess or exit when the setup invalidates or momentum conditions fail."
+    },
+
+    "nr7": {
+      "name": "NR7",
+      "category": "eod",
+      "timeframe": "Daily",
+      "description": "Identifies stocks showing a narrow-range setup based on the scanner's defined NR7 conditions.",
+      "entry_method": "Wait for confirmation of the range expansion or breakout.",
+      "exit_method": "Reassess if the breakout fails or the defined setup becomes invalid."
+    },
+
+    "rathod_bullish": {
+      "name": "Rathod Bullish",
+      "category": "intraday",
+      "timeframe": "Intraday",
+      "description": "Bullish candidates identified by the Rathod scanner conditions.",
+      "entry_method": "Wait for confirmation of the bullish setup and define invalidation before entry.",
+      "exit_method": "Exit or reassess when the setup invalidates."
+    },
+
+    "dualbb_15m_bull": {
+      "name": "Dual BB 15m Bullish",
+      "category": "intraday",
+      "timeframe": "15m",
+      "description": "Bullish candidates identified by the Dual Bollinger Band 15-minute conditions.",
+      "entry_method": "Wait for confirmation of the 15-minute setup.",
+      "exit_method": "Reassess when the setup loses its defining conditions."
+    },
+
+    "dualbb_15m_bear": {
+      "name": "Dual BB 15m Bearish",
+      "category": "intraday",
+      "timeframe": "15m",
+      "description": "Bearish candidates identified by the Dual Bollinger Band 15-minute conditions.",
+      "entry_method": "Wait for confirmation and appropriate risk definition before acting.",
+      "exit_method": "Reassess when the bearish setup invalidates."
+    },
+
+    "dualbb_1h_bull": {
+      "name": "Dual BB 1h Bullish",
+      "category": "intraday",
+      "timeframe": "1H",
+      "description": "Bullish candidates identified by the Dual Bollinger Band 1-hour conditions.",
+      "entry_method": "Wait for confirmation of the 1-hour setup.",
+      "exit_method": "Reassess when the setup loses its defining conditions."
+    },
+
+    "dualbb_1h_bear": {
+      "name": "Dual BB 1h Bearish",
+      "category": "intraday",
+      "timeframe": "1H",
+      "description": "Bearish candidates identified by the Dual Bollinger Band 1-hour conditions.",
+      "entry_method": "Wait for confirmation and appropriate risk definition before acting.",
+      "exit_method": "Reassess when the bearish setup invalidates."
+    },
+
+    "bullbhai_momentum": {
+      "name": "BullBhai Momentum",
+      "category": "intraday",
+      "timeframe": "15m",
+      "description": "Bullish momentum candidates identified by the BullBhai scanner.",
+      "entry_method": "Wait for confirmation of the momentum setup.",
+      "exit_method": "Reassess when the setup invalidates."
+    },
+
+    "short_term_breakout": {
+      "name": "Short Term Breakout",
+      "category": "intraday",
+      "timeframe": "Intraday",
+      "description": "Stocks meeting the scanner's short-term breakout conditions.",
+      "entry_method": "Wait for breakout confirmation and define invalidation.",
+      "exit_method": "Reassess if the breakout fails."
+    },
+
+    "potential_breakout": {
+      "name": "Potential Breakout",
+      "category": "intraday",
+      "timeframe": "Intraday",
+      "description": "Stocks identified as potential breakout candidates by the scanner.",
+      "entry_method": "Treat as a watchlist candidate until breakout confirmation occurs.",
+      "exit_method": "Remove or reassess if the breakout setup deteriorates."
+    },
+
+    "buy_breakout_100": {
+      "name": "100% Buy Breakout",
+      "category": "eod",
+      "timeframe": "Daily",
+      "description": "Stocks identified by the scanner's 100% buy breakout condition.",
+      "entry_method": "Review the breakout and confirmation conditions before considering entry.",
+      "exit_method": "Use the defined setup invalidation rather than relying on the scan alone."
+    },
+
+    "possible_bottom_out": {
+      "name": "Possible Bottom Out",
+      "category": "eod",
+      "timeframe": "Weekly",
+      "description": "Stocks identified by the scanner as possible bottoming candidates.",
+      "entry_method": "Treat as research/watchlist candidates and wait for confirmation.",
+      "exit_method": "Reassess if the bottoming thesis or technical setup fails."
+    },
+
+    "option_sell": {
+      "name": "Option Sell",
+      "category": "intraday",
+      "timeframe": "Intraday",
+      "description": "Candidates identified by the option-selling scanner.",
+      "entry_method": "Requires separate option-risk analysis and confirmation.",
+      "exit_method": "Use predefined risk limits and invalidate the underlying setup when appropriate."
+    }
+  }
+}
