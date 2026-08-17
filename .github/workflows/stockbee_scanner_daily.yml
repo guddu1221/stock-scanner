@@ -1,4 +1,4 @@
-name: Hourly Scanner
+name: stockbee Scanner india
 
 on:
   workflow_dispatch:
