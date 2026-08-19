@@ -34,7 +34,7 @@ jobs:
             SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
             SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
-          python scripts/run_notebook_fixed.py "scanner_hourly_v2_fixed.ipynb" --market usa --outdir public/data
+          python scripts/run_notebook_fixed.py "scanner_daily_stockbee_updated.ipynb" --market usa --outdir public/data
 
       - name: Upload Excel Artifacts
         uses: actions/upload-artifact@v4
