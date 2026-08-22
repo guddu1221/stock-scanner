@@ -1,61 +1,2309 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>MarketScanner | India & US Stock Market Research</title>
-<meta name="description" content="Professional stock market scanner for India and the United States. Explore hourly, EOD and Stockbee signals with market, timeframe and strategy context.">
-<meta name="robots" content="index,follow"><meta name="theme-color" content="#f7f9fc">
-<meta property="og:type" content="website"><meta property="og:title" content="MarketScanner | India & US Stock Market Research">
-<meta property="og:description" content="Structured stock scanner research for India and US equities.">
-<link rel="stylesheet" href="assets/styles.css">
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>MarketScan | Stock Scanners & Market Intelligence</title>
+
+<meta name="description"
+content="MarketScan provides stock scanner results, intraday scans, EOD setups, trading ideas and market intelligence for USA, India and UK markets.">
+
+<meta name="keywords"
+content="stock scanner, stock screener, intraday scanner, EOD scanner, USA stocks, India stocks, UK stocks, swing trading, market intelligence">
+
+<meta name="robots" content="index,follow">
+
+<style>
+
+:root {
+    --navy: #123b57;
+    --blue: #39a9cf;
+    --green: #2f9d70;
+    --ink: #193346;
+    --muted: #6f8290;
+    --line: #dce8ee;
+    --bg: #f7fafb;
+    --white: #ffffff;
+    --soft: #eef8fb;
+    --shadow: 0 10px 28px rgba(25,63,83,.07);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* TOP COLOR BORDER */
+
+body:before {
+    content: "";
+    display: block;
+    height: 5px;
+
+    background: linear-gradient(
+        90deg,
+        var(--blue),
+        #83d5df,
+        var(--green)
+    );
+}
+
+.container {
+    width: min(1180px, calc(100% - 32px));
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* ================= HEADER ================= */
+
+header {
+    background: rgba(255,255,255,.97);
+    border-bottom: 1px solid var(--line);
+
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header {
+    height: 76px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 20px;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+
+    border-radius: 11px;
+
+    display: grid;
+    place-items: center;
+
+    background: linear-gradient(
+        135deg,
+        var(--blue),
+        var(--green)
+    );
+
+    color: white;
+    font-weight: 900;
+}
+
+.brand b {
+    font-size: 21px;
+    color: var(--navy);
+}
+
+.brand small {
+    display: block;
+
+    color: var(--muted);
+
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+
+    font-weight: 800;
+}
+
+/* NAVIGATION */
+
+nav {
+    display: flex;
+    gap: 3px;
+}
+
+.nav {
+    position: relative;
+}
+
+.nav > a {
+
+    display: block;
+
+    padding: 11px 11px;
+
+    border-radius: 8px;
+
+    font-size: 13px;
+    font-weight: 700;
+
+    color: #466172;
+}
+
+.nav > a:hover {
+
+    background: var(--soft);
+    color: var(--navy);
+
+}
+
+/* DROPDOWN */
+
+.drop {
+
+    display: none;
+
+    position: absolute;
+
+    top: 43px;
+    left: 0;
+
+    width: 220px;
+
+    background: white;
+
+    border: 1px solid var(--line);
+
+    border-radius: 12px;
+
+    padding: 7px;
+
+    box-shadow: var(--shadow);
+
+}
+
+.nav:hover .drop {
+    display: block;
+}
+
+.drop a {
+
+    display: block;
+
+    padding: 10px;
+
+    border-radius: 7px;
+
+    font-size: 12px;
+
+    color: #516b7b;
+}
+
+.drop a:hover {
+
+    background: var(--soft);
+
+}
+
+/* ================= HERO ================= */
+
+.hero {
+
+    padding: 62px 0 38px;
+
+    background:
+
+    radial-gradient(
+        circle at 85% 20%,
+        rgba(57,169,207,.12),
+        transparent 27%
+    ),
+
+    radial-gradient(
+        circle at 15% 30%,
+        rgba(47,157,112,.08),
+        transparent 23%
+    );
+}
+
+.hero-grid {
+
+    display: grid;
+
+    grid-template-columns: 1.25fr .75fr;
+
+    gap: 40px;
+
+    align-items: center;
+}
+
+.eyebrow {
+
+    font-size: 10px;
+
+    text-transform: uppercase;
+
+    letter-spacing: .13em;
+
+    font-weight: 900;
+
+    color: var(--green);
+}
+
+h1 {
+
+    font-size: clamp(38px,5vw,58px);
+
+    line-height: 1.02;
+
+    letter-spacing: -.055em;
+
+    color: var(--navy);
+
+    margin: 12px 0 18px;
+}
+
+.hero p {
+
+    color: #607684;
+
+    font-size: 17px;
+
+    line-height: 1.7;
+}
+
+.hero-card {
+
+    background: white;
+
+    border: 1px solid var(--line);
+
+    border-radius: 18px;
+
+    padding: 24px;
+
+    box-shadow: var(--shadow);
+}
+
+.stats {
+
+    display: grid;
+
+    grid-template-columns: repeat(3,1fr);
+
+    gap: 10px;
+
+    margin-top: 20px;
+}
+
+.stat {
+
+    background: white;
+
+    border: 1px solid var(--line);
+
+    border-radius: 11px;
+
+    padding: 12px;
+}
+
+.stat span {
+
+    font-size: 9px;
+
+    color: var(--muted);
+
+    text-transform: uppercase;
+
+    font-weight: 900;
+}
+
+.stat strong {
+
+    display: block;
+
+    margin-top: 6px;
+
+    color: var(--navy);
+
+    font-size: 15px;
+}
+
+/* ================= SECTIONS ================= */
+
+.section {
+
+    padding: 40px 0;
+}
+
+.section h2 {
+
+    margin: 0;
+
+    color: var(--navy);
+
+    font-size: 26px;
+}
+
+.lead {
+
+    color: var(--muted);
+
+    line-height: 1.6;
+
+    margin-top: 7px;
+}
+
+/* ================= SCANNER ================= */
+
+.shell {
+
+    margin-top: 20px;
+
+    background: white;
+
+    border: 1px solid var(--line);
+
+    border-radius: 18px;
+
+    overflow: hidden;
+
+    box-shadow: var(--shadow);
+}
+
+.controls {
+
+    display: grid;
+
+    grid-template-columns: repeat(3,1fr);
+
+    gap: 14px;
+
+    padding: 18px;
+
+    background: #fbfdfe;
+
+    border-bottom: 1px solid var(--line);
+}
+
+label {
+
+    display: block;
+
+    font-size: 9px;
+
+    text-transform: uppercase;
+
+    letter-spacing: .09em;
+
+    font-weight: 900;
+
+    color: #748794;
+
+    margin-bottom: 7px;
+}
+
+select {
+
+    width: 100%;
+
+    padding: 12px;
+
+    border: 1px solid #cedee6;
+
+    border-radius: 10px;
+
+    background: white;
+
+    font-weight: 700;
+
+    color: var(--ink);
+}
+
+.scan-layout {
+
+    display: grid;
+
+    grid-template-columns: 300px 1fr;
+
+    min-height: 420px;
+}
+
+.summary {
+
+    padding: 23px;
+
+    background: #fcfefe;
+
+    border-right: 1px solid var(--line);
+}
+
+.summary h3 {
+
+    font-size: 23px;
+
+    color: var(--navy);
+
+    margin: 8px 0;
+}
+
+.summary p {
+
+    font-size: 13px;
+
+    line-height: 1.65;
+
+    color: var(--muted);
+}
+
+.method {
+
+    border-top: 1px solid var(--line);
+
+    padding: 11px 0;
+}
+
+.method span {
+
+    display: block;
+
+    font-size: 9px;
+
+    text-transform: uppercase;
+
+    color: #8798a3;
+
+    font-weight: 900;
+}
+
+.method b {
+
+    display: block;
+
+    font-size: 12px;
+
+    line-height: 1.5;
+
+    margin-top: 4px;
+
+    color: #385467;
+}
+
+/* RESULTS */
+
+.results {
+
+    padding: 23px;
+}
+
+.result-top {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    gap: 15px;
+
+    margin-bottom: 13px;
+}
+
+.count,
+.updated {
+
+    font-size: 11px;
+
+    color: var(--muted);
+}
+
+.table-wrap {
+
+    overflow: auto;
+
+    border: 1px solid var(--line);
+
+    border-radius: 12px;
+}
+
+table {
+
+    border-collapse: collapse;
+
+    width: 100%;
+
+    min-width: 650px;
+}
+
+th,
+td {
+
+    padding: 12px;
+
+    text-align: left;
+
+    border-bottom: 1px solid #edf2f5;
+
+    font-size: 12px;
+}
+
+th {
+
+    background: #f7fafb;
+
+    color: #6b7f8c;
+
+    font-size: 9px;
+
+    text-transform: uppercase;
+
+    letter-spacing: .07em;
+}
+
+.ticker {
+
+    font-weight: 900;
+
+    color: var(--navy);
+}
+
+.pill {
+
+    padding: 4px 8px;
+
+    border-radius: 20px;
+
+    background: var(--soft);
+
+    color: #277d9c;
+
+    font-size: 10px;
+
+    font-weight: 800;
+}
+
+.empty {
+
+    padding: 45px;
+
+    text-align: center;
+
+    color: var(--muted);
+}
+
+/* ================= CARDS ================= */
+
+.cards {
+
+    display: grid;
+
+    grid-template-columns: repeat(4,1fr);
+
+    gap: 14px;
+
+    margin-top: 18px;
+}
+
+.card {
+
+    background: white;
+
+    border: 1px solid var(--line);
+
+    border-radius: 14px;
+
+    padding: 18px;
+}
+
+.card h3 {
+
+    font-size: 15px;
+
+    color: var(--navy);
+
+    margin: 10px 0 6px;
+}
+
+.card p {
+
+    font-size: 12px;
+
+    line-height: 1.55;
+
+    color: var(--muted);
+
+    margin: 0;
+}
+
+.badge {
+
+    display: inline-block;
+
+    margin-top: 12px;
+
+    padding: 4px 7px;
+
+    border-radius: 6px;
+
+    background: #f2f6f8;
+
+    font-size: 9px;
+
+    text-transform: uppercase;
+
+    font-weight: 900;
+
+    color: #72838d;
+}
+
+/* ================= FOOTER ================= */
+
+footer {
+
+    margin-top: 35px;
+
+    background: var(--navy);
+
+    color: #c5d6de;
+
+    padding: 35px 0;
+
+    font-size: 12px;
+}
+
+.footer {
+
+    display: grid;
+
+    grid-template-columns: 1.5fr 1fr 1fr 1fr;
+
+    gap: 25px;
+}
+
+footer h3 {
+
+    color: white;
+
+    font-size: 14px;
+
+    margin: 0 0 10px;
+}
+
+footer a {
+
+    display: block;
+
+    margin: 8px 0;
+}
+
+.copyright {
+
+    border-top: 1px solid rgba(255,255,255,.12);
+
+    padding-top: 17px;
+
+    margin-top: 22px;
+
+    font-size: 10px;
+}
+
+/* MOBILE */
+
+@media(max-width:900px){
+
+    nav {
+        display: none;
+    }
+
+    .hero-grid,
+    .scan-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .summary {
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+    }
+
+    .cards {
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    .footer {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media(max-width:600px){
+
+    .controls,
+    .cards,
+    .footer {
+        grid-template-columns: 1fr;
+    }
+
+    .hero {
+        padding-top: 42px;
+    }
+}
+
+</style>
 </head>
+
 <body>
-<header class="site-header"><div class="container nav-wrap">
-<a class="brand" href="#home"><span class="brand-mark">MS</span><span><strong>Market<span>Scanner</span></strong><small>Structured market research</small></span></a>
-<button class="nav-toggle" aria-label="Toggle navigation">☰</button>
-<nav class="nav" aria-label="Primary navigation"><a href="#scanners">Scanners</a><a href="#ideas">Trade Ideas</a><a href="#tools">Tools</a><a href="#blog">Blog</a><a href="#about">About</a></nav>
-</div></header>
+
+<header>
+
+<div class="container header">
+
+<a class="brand" href="#">
+
+<div class="logo">M</div>
+
+<div>
+
+<b>MarketScan</b>
+
+<small>Market Intelligence</small>
+
+</div>
+
+</a>
+
+<nav>
+
+<div class="nav">
+
+<a href="#markets">Markets</a>
+
+<div class="drop">
+
+<a href="#scanner">USA</a>
+<a href="#scanner">India</a>
+<a href="#scanner">UK</a>
+<a href="#ideas">Forex</a>
+<a href="#ideas">Crypto</a>
+
+</div>
+
+</div>
+
+<div class="nav">
+
+<a href="#scanner">Scanners</a>
+
+<div class="drop">
+
+<a href="#scanner">USA EOD</a>
+<a href="#scanner">USA Intraday</a>
+
+<a href="#scanner">India EOD</a>
+<a href="#scanner">India Intraday</a>
+
+<a href="#scanner">UK EOD</a>
+<a href="#scanner">UK Intraday</a>
+
+</div>
+
+</div>
+
+<div class="nav">
+
+<a href="#ideas">Trading Ideas</a>
+
+<div class="drop">
+
+<a href="#ideas">Intraday</a>
+<a href="#ideas">Breakouts</a>
+<a href="#ideas">Momentum</a>
+<a href="#ideas">Forex & Crypto</a>
+
+</div>
+
+</div>
+
+<div class="nav">
+
+<a href="#investing">Investment Ideas</a>
+
+<div class="drop">
+
+<a href="#investing">Long-Term Stocks</a>
+<a href="#investing">Swing Stocks</a>
+<a href="#investing">ETF Ideas</a>
+
+</div>
+
+</div>
+
+<div class="nav">
+
+<a href="#research">Research</a>
+
+<div class="drop">
+
+<a href="#research">Market Regime</a>
+<a href="#research">Sector Rotation</a>
+<a href="#research">Market Breadth</a>
+
+</div>
+
+</div>
+
+<div class="nav">
+
+<a href="#tools">Tools</a>
+
+<div class="drop">
+
+<a href="#tools">Position Size</a>
+<a href="#tools">Risk / Reward</a>
+<a href="#tools">Options Builder</a>
+<a href="#tools">ETF Comparator</a>
+
+</div>
+
+</div>
+
+<div class="nav">
+
+<a href="#blog">Blog</a>
+
+</div>
+
+</nav>
+
+</div>
+
+</header>
+
+
 <main>
-<section id="home" class="hero"><div class="container hero-grid"><div>
-<p class="eyebrow">INDIA • USA • MARKET RESEARCH</p>
-<h1>Find the signal.<br><em>Understand the setup.</em></h1>
-<p class="lead">A professional research dashboard for automated stock scans, showing what was scanned, where, for which timeframe and how a setup may be approached.</p>
-<div class="actions"><a class="btn primary" href="#scanners">Explore scanners</a><a class="btn secondary" href="#ideas">Trade ideas</a></div>
-<div class="trust"><span>✓ India &amp; US coverage</span><span>✓ Automated data</span><span>✓ Research, not advice</span></div>
-</div><div class="hero-panel"><span class="eyebrow light">MARKET RESEARCH</span><h2>Signals with context.</h2><p>Short-term, daily and end-of-day research in one clean interface.</p>
-<div class="stats"><div><b id="total">—</b><small>published signals</small></div><div><b>2</b><small>markets</small></div><div><b>30D</b><small>history target</small></div></div></div></div></section>
 
-<section id="scanners" class="section"><div class="container"><div class="section-head"><div><p class="eyebrow">SCANNERS</p><h2>Market scanner dashboard</h2><p class="muted">Choose a scanner to explore its latest published results.</p></div></div>
-<div class="scanner-grid">
-<article class="scanner-card"><div class="card-top"><span class="pill india">INDIA</span><span>Hourly</span></div><h3>Hourly Scanner</h3><p>Short-duration signals for the India universe, designed for intraday research.</p><div class="meta"><span>Intraday</span><b id="hourly-count">Loading…</b></div><button class="text-link" data-scan="hourly">View signals →</button></article>
-<article class="scanner-card"><div class="card-top"><span class="pill usa">USA</span><span>EOD</span></div><h3>US EOD Scanner</h3><p>End-of-day research covering S&amp;P 500 and Russell 2000 setups.</p><div class="meta"><span>Swing / EOD</span><b id="eod-count">Loading…</b></div><button class="text-link" data-scan="eod">View signals →</button></article>
-<article class="scanner-card"><div class="card-top"><span class="pill usa">USA</span><span>Daily</span></div><h3>Stockbee Scanner</h3><p>Daily momentum and growth-oriented Stockbee research signals.</p><div class="meta"><span>Daily</span><b id="stockbee-count">Loading…</b></div><button class="text-link" data-scan="stockbee">View signals →</button></article>
-</div></div></section>
+<!-- HERO -->
 
-<section id="results" class="section gray"><div class="container"><div class="section-head results-head"><div><p class="eyebrow">SCAN RESULTS</p><h2 id="result-title">Latest signals</h2><p class="muted" id="result-context">Select a scanner above.</p></div><div><label class="search-label" for="search">Search results</label><input id="search" type="search" placeholder="Ticker or strategy…"></div></div>
-<div class="table-wrap"><table><thead><tr><th>Market</th><th>Ticker</th><th>Scan / signal</th><th>Universe</th><th>Research horizon</th><th>Entry approach</th></tr></thead><tbody id="results-body"><tr><td colspan="6" class="empty">Choose a scanner to load results.</td></tr></tbody></table></div>
-<p class="disclaimer">A scanner identifies a market condition; it does not guarantee a trade outcome. Define entry, invalidation and risk before acting on any idea.</p></div></section>
+<section class="hero" id="markets">
 
-<section id="ideas" class="section"><div class="container"><p class="eyebrow">TRADE IDEAS</p><h2>Ideas organized by holding period</h2><div class="idea-grid">
-<article><span>01</span><h3>Intraday</h3><p>Session-based ideas with trigger, invalidation and target context.</p><b>Coming soon</b></article>
-<article><span>02</span><h3>Swing</h3><p>Multi-day setups built around momentum, breakouts and defined risk.</p><b>Coming soon</b></article>
-<article><span>03</span><h3>Mid-term</h3><p>Multi-week trend and positioning research.</p><b>Coming soon</b></article>
-<article><span>04</span><h3>Long-term</h3><p>Longer-horizon watchlists and thesis-driven research.</p><b>Coming soon</b></article>
-</div></div></section>
+<div class="container hero-grid">
 
-<section id="tools" class="section gray"><div class="container"><p class="eyebrow">TOOLS</p><h2>Research utilities</h2><div class="tool-grid">
-<article><strong>%</strong><h3>Position Size Calculator</h3><p>Plan position size from account value and predefined risk.</p><span>Coming soon</span></article>
-<article><strong>↗</strong><h3>Risk / Reward Planner</h3><p>Map entry, invalidation and target levels.</p><span>Coming soon</span></article>
-<article><strong>⌁</strong><h3>Scanner Glossary</h3><p>Understand scanner conditions in plain English.</p><span>Coming soon</span></article>
-<article><strong>◫</strong><h3>Market Calendar</h3><p>Track sessions, earnings and important events.</p><span>Coming soon</span></article>
-</div></div></section>
+<div>
 
-<section id="blog" class="section"><div class="container blog-grid"><div><p class="eyebrow">INSIGHTS</p><h2>MarketScanner Blog</h2><p class="muted">A future home for scanner methodology, market education, strategy notes and post-trade reviews.</p></div>
-<article class="blog-card"><span class="pill usa">COMING SOON</span><h3>How to read a stock scanner without chasing signals</h3><p>Learn how timeframe, universe, trigger and invalidation fit together.</p></article></div></section>
+<div class="eyebrow">
 
-<section id="about" class="about"><div class="container about-grid"><div><p class="eyebrow light">ABOUT</p><h2>Research first.<br>Decisions second.</h2></div>
-<div><p>MarketScanner is a clean research layer over automated market scans. Results are presented with market, universe, timeframe and intended horizon so visitors can understand context before using a signal.</p><p class="fine">This website is for informational and educational purposes only and is not investment advice or a recommendation to buy or sell securities.</p></div></div></section>
+Daily Market Intelligence
+
+</div>
+
+<h1>
+
+Find the market setups worth researching.
+
+</h1>
+
+<p>
+
+Systematic stock scans, intraday opportunities and market research
+in one clean dashboard for traders and investors.
+
+</p>
+
+<div class="stats">
+
+<div class="stat">
+
+<span>Markets</span>
+
+<strong>USA · India · UK</strong>
+
+</div>
+
+<div class="stat">
+
+<span>Timeframes</span>
+
+<strong>EOD · Intraday</strong>
+
+</div>
+
+<div class="stat">
+
+<span>Approach</span>
+
+<strong>Data First</strong>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="hero-card">
+
+<div class="eyebrow">
+
+Today's Workflow
+
+</div>
+
+<h3 style="color:#123b57;font-size:21px;margin:10px 0">
+
+Choose a market. Choose a scan.
+
+</h3>
+
+<p style="font-size:13px">
+
+Select country, timeframe and scan type.
+The scanner list is automatically built from your JSON data.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- SCANNER -->
+
+<section class="section" id="scanner">
+
+<div class="container">
+
+<h2>Market Scanners</h2>
+
+<p class="lead">
+
+Choose your market, timeframe and scan type.
+
+</p>
+
+<div class="shell">
+
+<div class="controls">
+
+<div>
+
+<label>Market / Country</label>
+
+<select id="country">
+
+<option value="usa">🇺🇸 USA</option>
+<option value="india">🇮🇳 India</option>
+<option value="uk">🇬🇧 UK</option>
+
+</select>
+
+</div>
+
+<div>
+
+<label>Timeframe</label>
+
+<select id="mode">
+
+<option value="eod">EOD</option>
+<option value="intraday">Intraday</option>
+
+</select>
+
+</div>
+
+<div>
+
+<label>Scan Type</label>
+
+<select id="scan">
+
+<option>Loading scanners...</option>
+
+</select>
+
+</div>
+
+</div>
+
+
+<div class="scan-layout">
+
+<aside class="summary">
+
+<div class="eyebrow" id="summaryLabel">
+
+USA · EOD
+
+</div>
+
+<h3 id="scanName">
+
+Loading...
+
+</h3>
+
+<p id="purpose">
+
+Loading scanner information...
+
+</p>
+
+<div class="method">
+
+<span>Typical Duration</span>
+
+<b id="duration">—</b>
+
+</div>
+
+<div class="method">
+
+<span>Entry Framework</span>
+
+<b id="entry">—</b>
+
+</div>
+
+<div class="method">
+
+<span>Exit Framework</span>
+
+<b id="exit">—</b>
+
+</div>
+
+</aside>
+
+
+<div class="results">
+
+<div class="result-top">
+
+<div>
+
+<strong id="heading">
+
+Scan Results
+
+</strong>
+
+<div class="count" id="count">
+
+Loading...
+
+</div>
+
+</div>
+
+<div class="updated" id="updated">
+
+</div>
+
+</div>
+
+<div id="table">
+
+<div class="empty">
+
+Loading data...
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- TRADING IDEAS -->
+
+<section class="section" id="ideas">
+
+<div class="container">
+
+<h2>Trading Ideas</h2>
+
+<p class="lead">
+
+Future sections for intraday stocks, breakouts, forex,
+crypto and global index opportunities.
+
+</p>
+
+<div class="cards">
+
+<div class="card">
+
+⚡
+
+<h3>Intraday Momentum</h3>
+
+<p>
+
+5-minute and 15-minute momentum,
+trend and range setups.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+↗
+
+<h3>Range Breakouts</h3>
+
+<p>
+
+Markets expanding beyond important
+technical ranges.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+◎
+
+<h3>Forex & Crypto</h3>
+
+<p>
+
+Trend and breakout ideas across
+liquid FX and crypto markets.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+◈
+
+<h3>Global Indices</h3>
+
+<p>
+
+Major indices monitored for
+intraday trend opportunities.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- INVESTMENT -->
+
+<section class="section" id="investing">
+
+<div class="container">
+
+<h2>Investment Ideas</h2>
+
+<p class="lead">
+
+Longer-horizon research beyond today's scanner output.
+
+</p>
+
+<div class="cards">
+
+<div class="card">
+
+◉
+
+<h3>Long-Term Stocks</h3>
+
+<p>
+
+Quality, growth, value and dividend research.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+↗
+
+<h3>Swing Stocks</h3>
+
+<p>
+
+Breakout, pullback and momentum candidates.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+▦
+
+<h3>ETF Ideas</h3>
+
+<p>
+
+Sector, growth, dividend and global ETFs.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+★
+
+<h3>Watchlists</h3>
+
+<p>
+
+Stocks approaching important technical conditions.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- RESEARCH -->
+
+<section class="section" id="research">
+
+<div class="container">
+
+<h2>Market Intelligence</h2>
+
+<p class="lead">
+
+Context to help interpret scanner results.
+
+</p>
+
+<div class="cards">
+
+<div class="card">
+
+◒
+
+<h3>Market Regime</h3>
+
+<p>
+
+Trend, breadth, volatility and risk appetite.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+↻
+
+<h3>Sector Rotation</h3>
+
+<p>
+
+Identify sectors strengthening or weakening.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+▤
+
+<h3>Market Breadth</h3>
+
+<p>
+
+Participation and new highs/lows.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+!
+
+<h3>Unusual Activity</h3>
+
+<p>
+
+Volume, volatility and range expansion.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- TOOLS -->
+
+<section class="section" id="tools">
+
+<div class="container">
+
+<h2>Trading & Investment Tools</h2>
+
+<p class="lead">
+
+Useful tools that traders and investors can return to every day.
+
+</p>
+
+<div class="cards">
+
+<div class="card">
+
+%
+
+<h3>Position Size</h3>
+
+<p>
+
+Calculate position size using account risk,
+entry and stop level.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+↔
+
+<h3>Risk / Reward</h3>
+
+<p>
+
+Calculate trade risk and potential reward.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+△
+
+<h3>Options Builder</h3>
+
+<p>
+
+Compare option strategies and payoff structures.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+<div class="card">
+
+▥
+
+<h3>ETF Comparator</h3>
+
+<p>
+
+Compare holdings, cost, yield and exposure.
+
+</p>
+
+<span class="badge">Planned</span>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<section class="section" id="blog">
+
+<div class="container">
+
+<h2>MarketScan Research</h2>
+
+<p class="lead">
+
+Future home for scanner education,
+market analysis, trading guides and investing research.
+
+</p>
+
+</div>
+
+</section>
+
 </main>
-<footer><div class="container footer-grid"><div><strong>MarketScanner</strong><p>Structured market research for India and US equities.</p></div><div><strong>Explore</strong><a href="#scanners">Scanners</a><a href="#ideas">Trade Ideas</a><a href="#tools">Tools</a><a href="#blog">Blog</a></div><div><strong>Disclosure</strong><p>Markets involve risk. Research signals are not guarantees.</p></div></div><div class="container copyright">© <span id="year"></span> MarketScanner. All rights reserved.</div></footer>
-<script src="assets/app.js"></script>
-</body></html>
+
+
+<footer>
+
+<div class="container">
+
+<div class="footer">
+
+<div>
+
+<h3>MarketScan</h3>
+
+<p>
+
+Market intelligence for traders and investors.
+
+Scanner results are research tools and are not
+guarantees of future performance.
+
+</p>
+
+</div>
+
+<div>
+
+<h3>Markets</h3>
+
+<a href="#scanner">USA</a>
+<a href="#scanner">India</a>
+<a href="#scanner">UK</a>
+
+</div>
+
+<div>
+
+<h3>Research</h3>
+
+<a href="#research">Market Regime</a>
+<a href="#research">Sector Rotation</a>
+<a href="#research">Breadth</a>
+
+</div>
+
+<div>
+
+<h3>Tools</h3>
+
+<a href="#tools">Position Size</a>
+<a href="#tools">Risk / Reward</a>
+<a href="#tools">Options Builder</a>
+
+</div>
+
+</div>
+
+<div class="copyright">
+
+© 2026 MarketScan.
+For informational and research purposes only.
+
+</div>
+
+</div>
+
+</footer>
+
+
+<script>
+
+/* ============================================================
+   DATA FILES
+============================================================ */
+
+const DATA = {
+
+    eod: "public/data/eod.json",
+
+    intraday: "public/data/hourly.json"
+
+};
+
+
+/* ============================================================
+   SCAN DESCRIPTIONS
+============================================================ */
+
+const meta = {
+
+"VCP": [
+
+"Volatility Contraction Pattern candidates where price action may be tightening before a potential expansion.",
+
+"EOD / Swing",
+
+"Wait for a defined pivot or breakout confirmation and control risk.",
+
+"Use the setup invalidation level and a predefined trade-management plan."
+
+],
+
+"4% Breakout": [
+
+"Stocks showing a meaningful breakout move from a prior range or technical reference.",
+
+"EOD / Swing",
+
+"Confirm the breakout and avoid chasing an extended move.",
+
+"Use the breakout structure and predefined stop and target."
+
+],
+
+"Gap Up": [
+
+"Stocks opening materially above a prior reference level.",
+
+"Short-term",
+
+"Look for confirmation after the gap rather than entering only because of the gap.",
+
+"Use the day's price structure and predefined invalidation level."
+
+],
+
+"High Volume": [
+
+"Stocks with unusually strong activity relative to normal trading volume.",
+
+"EOD / Swing",
+
+"Combine volume expansion with constructive price action.",
+
+"Exit when the setup is invalidated or the trade plan is reached."
+
+],
+
+"BTST": [
+
+"Buy-Today-Sell-Tomorrow style candidates identified from end-of-day conditions.",
+
+"1–2 sessions",
+
+"Review closing structure and define risk before entry.",
+
+"Predefine the next-session exit and risk plan."
+
+]
+
+};
+
+
+const fallback = [
+
+"This scanner identifies securities matching a defined set of technical or market conditions. Use it as a research shortlist and perform your own analysis.",
+
+"Depends on scanner",
+
+"Confirm the setup and define risk before entering.",
+
+"Use the setup invalidation level and predefined stop or target."
+
+];
+
+
+const $ = id => document.getElementById(id);
+
+
+/* ============================================================
+   NORMALIZE JSON COLUMNS
+============================================================ */
+
+function normalize(row) {
+
+    const get = (...keys) => {
+
+        for (const key of keys) {
+
+            if (
+                row[key] !== undefined &&
+                row[key] !== null
+            ) {
+
+                return row[key];
+
+            }
+
+        }
+
+        return "";
+
+    };
+
+
+    return {
+
+        scan:
+
+        String(
+            get(
+                "Scan",
+                "scan",
+                "scan_name",
+                "Scan_Name",
+                "Strategy",
+                "strategy"
+            ) || "Unclassified"
+        ).trim(),
+
+
+        ticker:
+
+        String(
+            get(
+                "Ticker",
+                "ticker",
+                "Symbol",
+                "symbol",
+                "Stock",
+                "stock"
+            ) || ""
+        ).trim(),
+
+
+        universe:
+
+        String(
+            get(
+                "Universe",
+                "universe",
+                "Market",
+                "market"
+            ) || ""
+        ).trim(),
+
+
+        updated:
+
+        String(
+            get(
+                "Updated",
+                "updated",
+                "scan_time",
+                "created_at"
+            ) || ""
+        ).trim(),
+
+
+        close:
+
+        get(
+            "close_price",
+            "Close",
+            "close"
+        ),
+
+
+        volume:
+
+        get(
+            "volume",
+            "Volume"
+        ),
+
+
+        change:
+
+        get(
+            "change_pct",
+            "ChangePct",
+            "change_percent",
+            "Change"
+        )
+
+    };
+
+}
+
+
+/* ============================================================
+   COUNTRY FILTER
+============================================================ */
+
+function matchCountry(row, country) {
+
+    const universe =
+        row.universe.toLowerCase();
+
+
+    if (country === "usa") {
+
+        return !/(india|nifty|nse|uk|ftse|london)/.test(universe);
+
+    }
+
+
+    if (country === "india") {
+
+        return /(india|nifty|nse)/.test(universe);
+
+    }
+
+
+    if (country === "uk") {
+
+        return /(uk|ftse|london)/.test(universe);
+
+    }
+
+
+    return true;
+
+}
+
+
+/* ============================================================
+   GET SCAN INFORMATION
+============================================================ */
+
+function getInfo(scanName) {
+
+    if (meta[scanName]) {
+
+        return meta[scanName];
+
+    }
+
+
+    const key =
+        Object.keys(meta).find(k =>
+            scanName
+                .toLowerCase()
+                .includes(k.toLowerCase())
+        );
+
+
+    return key
+        ? meta[key]
+        : fallback;
+
+}
+
+
+/* ============================================================
+   LOAD DATA
+============================================================ */
+
+async function load() {
+
+    const country =
+        $("country").value;
+
+    const mode =
+        $("mode").value;
+
+
+    $("table").innerHTML =
+
+        `<div class="empty">
+
+        Loading scanner data...
+
+        </div>`;
+
+
+    try {
+
+        const response =
+            await fetch(
+                DATA[mode],
+                { cache: "no-store" }
+            );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                "HTTP " +
+                response.status
+            );
+
+        }
+
+
+        const raw =
+            await response.json();
+
+
+        const sourceRows =
+
+            Array.isArray(raw)
+
+            ? raw
+
+            : (
+                raw.results ||
+                raw.data ||
+                []
+            );
+
+
+        const rows =
+            sourceRows
+            .map(normalize)
+            .filter(row =>
+                row.ticker
+            );
+
+
+        const filtered =
+            rows.filter(row =>
+                matchCountry(
+                    row,
+                    country
+                )
+            );
+
+
+        const scans =
+            [...new Set(
+                filtered.map(
+                    row =>
+                    row.scan
+                )
+            )].sort();
+
+
+        const previous =
+            $("scan").value;
+
+
+        if (scans.length) {
+
+            $("scan").innerHTML =
+                scans.map(scan =>
+
+                    `<option value="${scan}">
+
+                    ${scan}
+                    —
+                    ${
+                        filtered.filter(
+                            row =>
+                            row.scan === scan
+                        ).length
+                    }
+                    stocks
+
+                    </option>`
+
+                ).join("");
+
+
+            if (
+                scans.includes(
+                    previous
+                )
+            ) {
+
+                $("scan").value =
+                    previous;
+
+            }
+
+        }
+
+        else {
+
+            $("scan").innerHTML =
+                `<option value="">
+
+                No scanners available
+
+                </option>`;
+
+        }
+
+
+        render(filtered);
+
+    }
+
+    catch (error) {
+
+        $("scan").innerHTML =
+
+            `<option>
+
+            Unable to load scanners
+
+            </option>`;
+
+
+        $("table").innerHTML =
+
+            `<div class="empty">
+
+            Could not load:
+
+            <br><br>
+
+            ${DATA[mode]}
+
+            <br><br>
+
+            ${error.message}
+
+            </div>`;
+
+    }
+
+}
+
+
+/* ============================================================
+   RENDER RESULTS
+============================================================ */
+
+function render(filtered) {
+
+    const scan =
+        $("scan").value;
+
+    const country =
+        $("country").value;
+
+    const mode =
+        $("mode").value;
+
+
+    const rows =
+        filtered.filter(
+            row =>
+            row.scan === scan
+        );
+
+
+    const info =
+        getInfo(scan);
+
+
+    $("summaryLabel").textContent =
+
+        country.toUpperCase()
+        +
+        " · "
+        +
+        mode.toUpperCase();
+
+
+    $("scanName").textContent =
+        scan || "No scan selected";
+
+
+    $("purpose").textContent =
+        info[0];
+
+
+    $("duration").textContent =
+        info[1];
+
+
+    $("entry").textContent =
+        info[2];
+
+
+    $("exit").textContent =
+        info[3];
+
+
+    $("heading").textContent =
+        scan || "Scan Results";
+
+
+    $("count").textContent =
+
+        rows.length
+        +
+        " matching stock"
+        +
+        (
+            rows.length === 1
+            ? ""
+            : "s"
+        );
+
+
+    const latest =
+
+        rows
+        .map(row =>
+            row.updated
+        )
+        .filter(Boolean)
+        .sort()
+        .pop();
+
+
+    $("updated").textContent =
+
+        latest
+        ? "Updated " + latest
+        : "";
+
+
+    if (!rows.length) {
+
+        $("table").innerHTML =
+
+            `<div class="empty">
+
+            No stocks found for this selection.
+
+            </div>`;
+
+        return;
+
+    }
+
+
+    $("table").innerHTML =
+
+        `
+
+        <div class="table-wrap">
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Ticker</th>
+
+        <th>Universe</th>
+
+        <th>Close</th>
+
+        <th>Change %</th>
+
+        <th>Volume</th>
+
+        <th>Updated</th>
+
+        </tr>
+
+        </thead>
+
+
+        <tbody>
+
+        ${rows.map(row => `
+
+        <tr>
+
+        <td class="ticker">
+
+        ${row.ticker}
+
+        </td>
+
+
+        <td>
+
+        <span class="pill">
+
+        ${row.universe || "—"}
+
+        </span>
+
+        </td>
+
+
+        <td>
+
+        ${row.close || "—"}
+
+        </td>
+
+
+        <td>
+
+        ${row.change || "—"}
+
+        </td>
+
+
+        <td>
+
+        ${row.volume || "—"}
+
+        </td>
+
+
+        <td>
+
+        ${row.updated || "—"}
+
+        </td>
+
+        </tr>
+
+        `).join("")}
+
+        </tbody>
+
+        </table>
+
+        </div>
+
+        `;
+
+}
+
+
+/* ============================================================
+   EVENT LISTENERS
+============================================================ */
+
+$("country").addEventListener(
+    "change",
+    load
+);
+
+
+$("mode").addEventListener(
+    "change",
+    load
+);
+
+
+$("scan").addEventListener(
+    "change",
+    async function() {
+
+        const mode =
+            $("mode").value;
+
+        const country =
+            $("country").value;
+
+
+        try {
+
+            const response =
+                await fetch(
+                    DATA[mode],
+                    {
+                        cache: "no-store"
+                    }
+                );
+
+
+            const raw =
+                await response.json();
+
+
+            const sourceRows =
+
+                Array.isArray(raw)
+
+                ? raw
+
+                : (
+                    raw.results ||
+                    raw.data ||
+                    []
+                );
+
+
+            const rows =
+                sourceRows
+                .map(normalize)
+                .filter(row =>
+                    row.ticker
+                );
+
+
+            render(
+                rows.filter(row =>
+                    matchCountry(
+                        row,
+                        country
+                    )
+                )
+            );
+
+        }
+
+        catch (error) {
+
+            console.error(error);
+
+        }
+
+    }
+);
+
+
+/* ============================================================
+   INITIAL LOAD
+============================================================ */
+
+load();
+
+</script>
+
+</body>
+</html>
