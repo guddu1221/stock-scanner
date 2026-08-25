@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  stockbee_usa:
+  Hourly_Scanner_usa:
     runs-on: ubuntu-latest
 
     steps:
