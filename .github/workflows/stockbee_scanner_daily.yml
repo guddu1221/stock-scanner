@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  hourly:
+  stockbee_india:
     runs-on: ubuntu-latest
 
     steps:
