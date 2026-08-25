@@ -1,4 +1,4 @@
-name: EOD_INDIA Scanner
+name: EOD_USA Scanner
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  hourly:
+  EOD_USA:
     runs-on: ubuntu-latest
 
     steps:
