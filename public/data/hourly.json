@@ -1,992 +1,1310 @@
 [
   {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AUBANK.NS",
+    "Scan":"Option Sell (Chirag)",
+    "Ticker":"AUROPHARMA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Option Sell (Chirag)",
+    "Ticker":"SARDAEN.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Option Sell (Chirag)",
+    "Ticker":"TENNIND.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"AARTIIND.NS",
+    "Ticker":"360ONE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ACUTAAS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ADANIENT.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ADANIPORTS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"ABDL.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AMBER.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ANGELONE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"ANURAS.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"APOLLOHOSP.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"ASAHIINDIA.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"ASHOKLEY.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"ASTRAL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"AIIL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BAJAJ-AUTO.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BANKINDIA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"BEL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"BPCL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GROWW.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"BRIGADE.NS",
+    "Ticker":"BOSCHLTD.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"CGCL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CARTRADE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"CDSL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CHALET.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CUB.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"COCHINSHIP.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"COFORGE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CYIENT.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"DLF.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"DEVYANI.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"DIVISLAB.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"DIXON.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LALPATHLAB.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"DRREDDY.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"EICHERMOT.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EMMVEE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ETERNAL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"NYKAA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"GAIL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"GRASIM.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"HEG.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"HDFCAMC.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"HFCL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"HINDALCO.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"HOMEFIRST.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"HYUNDAI.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ICICIAMC.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IDBI.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"INDIANB.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"IREDA.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"INDUSTOWER.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"IPCALAB.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"JMFINANCIL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"JSWINFRA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"JSWSTEEL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"JINDALSTEL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"JUBLFOOD.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"KALYANKJIL.NS",
+    "Ticker":"JYOTICNC.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"KARURVYSYA.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"KOTAKBANK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"LTF.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LGEINDIA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LT.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LAURUSLABS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"LENSKART.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LODHA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"M&M.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"MANAPPURAM.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"MFSL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MAZDOCK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"MEESHO.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MOTILALOFS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MCX.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"MUTHOOTFIN.NS",
+    "Ticker":"NCC.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"NUVAMA.NS",
+    "Ticker":"NMDC.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"NATIONALUM.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PAYTM.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"OFSS.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"POLICYBZR.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"PNBHOUSING.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"PVRINOX.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PARADEEP.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"PERSISTENT.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PHOENIXLTD.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PINELABS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"PIRAMALFIN.NS",
+    "Ticker":"PRESTIGE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"RELIANCE.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"SBICARD.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"SAILIFE.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SAPPHIRE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SHRIRAMFIN.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SHYAMMETL.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SIEMENS.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SWIGGY.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SYNGENE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TBOTEK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TVSMOTOR.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"NIACL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TITAN.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TARIL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UPL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UNIONBANK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"UNITDSPR.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"URBANCO.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"AUBANK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"AWL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"Momentum Scan",
-    "Ticker":"BRIGADE.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"CYIENT.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Momentum Scan",
+    "Ticker":"DIVISLAB.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Momentum Scan",
+    "Ticker":"ETERNAL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Momentum Scan",
+    "Ticker":"GLENMARK.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"KARURVYSYA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"LAURUSLABS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"LODHA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Momentum Scan",
+    "Ticker":"MAZDOCK.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"PAYTM.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"PARADEEP.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"PINELABS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"SAIL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Dual BB 15min Bullish",
-    "Ticker":"360ONE.NS",
+    "Ticker":"APOLLOTYRE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Dual BB 15min Bullish",
-    "Ticker":"HFCL.NS",
+    "Ticker":"DRREDDY.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Dual BB 15min Bullish",
-    "Ticker":"NATIONALUM.NS",
+    "Ticker":"ENGINERSIN.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Dual BB 15min Bullish",
-    "Ticker":"NAM-INDIA.NS",
+    "Ticker":"HDBFS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"BLUEJET.NS",
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"JUBLFOOD.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"CEMPRO.NS",
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"KAYNES.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"HOMEFIRST.NS",
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"LODHA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"IGL.NS",
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"NCC.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"JSL.NS",
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"NIACL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"USHAMART.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AUBANK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AWL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AARTIIND.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"ACUTAAS.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ADANIENT.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AFCONS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ABDL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"ANGELONE.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ANURAS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"APOLLOTYRE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"AIIL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BAJAJ-AUTO.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"BANKINDIA.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"MAHABANK.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"BHEL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GROWW.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BRIGADE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"CGCL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CARTRADE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CHALET.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"CUB.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"COCHINSHIP.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"COFORGE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CYIENT.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DEVYANI.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DIVISLAB.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"DIXON.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LALPATHLAB.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DRREDDY.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ENGINERSIN.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FACT.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GLENMARK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"HDFCAMC.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"HFCL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"HINDALCO.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"ICICIAMC.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IDBI.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IFCI.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"IPCALAB.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"JSWINFRA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"JINDALSTEL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"JUBLFOOD.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KALYANKJIL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KARURVYSYA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"KAYNES.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KOTAKBANK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LGEINDIA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LTFOODS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LT.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LAURUSLABS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"THELEELA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"LENSKART.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LODHA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MANAPPURAM.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MFSL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"MAZDOCK.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MOTILALOFS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MCX.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MUTHOOTFIN.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"NATIONALUM.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NUVAMA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PAYTM.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PTCIL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PVRINOX.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PARADEEP.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"PETRONET.NS",
-    "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PINELABS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PIRAMALFIN.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"PRESTIGE.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"RELIANCE.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SIEMENS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SAIL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TBOTEK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"TVSMOTOR.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"NIACL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"TITAN.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TARIL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"UPL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"UNIONBANK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"UNITDSPR.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"URBANCO.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"Potential Breakout",
+    "Ticker":"ADANIENT.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"AUBANK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"AWL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"100% Buy Breakout",
+    "Ticker":"BPCL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"CHALET.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"DIVISLAB.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"100% Buy Breakout",
+    "Ticker":"GAIL.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
+  },
+  {
+    "Scan":"100% Buy Breakout",
+    "Ticker":"INDUSINDBK.NS",
+    "Universe":"Nifty 500",
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"KALYANKJIL.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"KARURVYSYA.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"KAYNES.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"PAYTM.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"PARADEEP.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"PINELABS.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"UNIONBANK.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   },
   {
     "Scan":"Possible Bottom Out (Weekly)",
     "Ticker":"ANGELONE.NS",
     "Universe":"Nifty 500",
-    "Updated":"2026-08-25 09:12"
+    "Updated":"2026-08-25 11:18"
   }
 ]
