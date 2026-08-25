@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  hourly:
+  hourly_india:
     runs-on: ubuntu-latest
 
     steps:
