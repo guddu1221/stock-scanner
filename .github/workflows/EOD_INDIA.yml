@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  hourly:
+  EOD_INDIA:
     runs-on: ubuntu-latest
 
     steps:
