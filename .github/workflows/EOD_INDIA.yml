@@ -29,8 +29,9 @@ jobs:
           python -m pip install --upgrade pip
           python -m ipykernel install --user --name python3 --display-name "Python 3"
 
-      - name: Run EOD hourly scanner
+      - name: EOD_INDIA Scanner
         env:
+            SCAN_MARKET: india
             SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
             SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
