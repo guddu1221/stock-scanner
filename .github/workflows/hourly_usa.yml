@@ -32,7 +32,7 @@ jobs:
 
       - name: Run hourly scanner
         env:
-            SCAN_MARKET: india
+            SCAN_MARKET: usa
             SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
             SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
