@@ -1,5186 +1,4064 @@
 [
   {
     "Scan":"Option Sell (Chirag)",
+    "Ticker":"GOOG",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Option Sell (Chirag)",
+    "Ticker":"AMZN",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Option Sell (Chirag)",
     "Ticker":"ADI",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"AVGO",
+    "Ticker":"KEYS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"CCL",
+    "Ticker":"KIM",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"CSCO",
+    "Ticker":"MLM",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"DAL",
+    "Ticker":"NVDA",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"FSLR",
+    "Ticker":"ORLY",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"HD",
+    "Ticker":"ON",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"KLAC",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"NCLH",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"NXPI",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
     "Ticker":"Q",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"LUV",
+    "Ticker":"REG",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"WYNN",
+    "Ticker":"SWKS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"ACH",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Ticker":"SWK",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"AERO",
+    "Ticker":"ACEL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"ALH",
+    "Ticker":"AKR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"ALK",
+    "Ticker":"AMBQ",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"AS",
+    "Ticker":"ASG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"ATHM",
+    "Ticker":"BHE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"ATMU",
+    "Ticker":"BWA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"BCC",
+    "Ticker":"CABO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"BFAM",
+    "Ticker":"CAL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"BLX",
+    "Ticker":"CNM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"CHCT",
+    "Ticker":"DAO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"CPA",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"CPF",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"CRS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"CUZ",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
     "Ticker":"DBD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"DLX",
+    "Ticker":"FNF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"DLY",
+    "Ticker":"FPS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"EBF",
+    "Ticker":"HSBC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"ENVA",
+    "Ticker":"KRG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"EVEX",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"FFC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"FPH",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"FTK",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"GIL",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"HUN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"ITUB",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"IVR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"KOP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"LPX",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"MAGN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"MBC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"MEC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"MFA",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"MITT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"MNSO",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"NGVC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"NIO",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"NMZ",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"NX",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"OC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"OHI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"ONIT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"OPFI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
     "Ticker":"PAM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"PDO",
+    "Ticker":"STEW",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"PFGC",
+    "Ticker":"SVV",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"PHI",
+    "Ticker":"UE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Option Sell (Chirag)",
-    "Ticker":"PLOW",
+    "Ticker":"YOU",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"QUAD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"REZI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"ROG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"RTO",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"RYN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"SBS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"SGI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"SMG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"STM",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"SUNB",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"TKC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"TNC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"TOL",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"TREX",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"TSM",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"VCV",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"VIK",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"VKQ",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"VLRS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"VPG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"VSH",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Option Sell (Chirag)",
-    "Ticker":"VTN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AOS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AMD",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"APD",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MO",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"AWK",
+    "Ticker":"AMP",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"APO",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AAPL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ACGL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ARES",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ANET",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AJG",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"T",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"BALL",
+    "Ticker":"BBY",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BDX",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"XYZ",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"BNY",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CHRW",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CDNS",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CAH",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CBOE",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"COR",
+    "Ticker":"CDW",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CNC",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CHD",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CI",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CTAS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CME",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CEG",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CTVA",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CRH",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CCI",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CSX",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"DHR",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"DELL",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"DASH",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ECL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ELV",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"EQT",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"EQIX",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EG",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EXE",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"EXPE",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EXPD",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"FAST",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"FDX",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"FTV",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"FCX",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GEN",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GPC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GILD",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"HAS",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"DOC",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"HSIC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"HPE",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"HLT",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"HUM",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IFF",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IP",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IVZ",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IQV",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"J",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"KVUE",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"KMB",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"KMI",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"KR",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"LH",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LIN",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LITE",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"MRSH",
+    "Ticker":"MPC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MRVL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"META",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MSFT",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"MCO",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"MOS",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MSI",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"NDSN",
+    "Ticker":"NDAQ",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"NSC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"NTRS",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ORCL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"PH",
+    "Ticker":"OTIS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"PM",
+    "Ticker":"PCG",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"PSX",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PGR",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"PLD",
+    "Ticker":"PHM",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"QCOM",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"DGX",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"RVTY",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ROL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SPGI",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SLB",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SJM",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SW",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SOLV",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SBUX",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"STT",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SYF",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SNPS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"TPL",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TMO",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"UBER",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"ULTA",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UNP",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UPS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UHS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"VRSN",
+    "Ticker":"VLO",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"VZ",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"VTRS",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"V",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GWW",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WAB",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"WBD",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WAT",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WST",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"WMB",
+    "Ticker":"ZBRA",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ZBH",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ZTS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AAMI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ACA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AEO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"AFG",
+    "Ticker":"AFGC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AFGE",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AGCO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AGL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"AGRO",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"AHR",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AII",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AIZN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ALG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"ALSN",
+    "Ticker":"ALX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AMC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AMG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AMR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ANDG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"ANF",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"APAM",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"ARCO",
+    "Ticker":"ARX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"ARDT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ASA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ASH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ASIC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"ATI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"ATKR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ATR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AUNA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AVBC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"AVNT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"AVTR",
+    "Ticker":"BAP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"AXTA",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BARK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BBN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BBVA",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BDJ",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"BDN",
+    "Ticker":"BGT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BEKE",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BGY",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BHK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BHVN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"BIO",
+    "Ticker":"BIPH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BIPI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BKE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BKH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BME",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BMI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BMNP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BMNR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BNED",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BNS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"BOW",
+    "Ticker":"BOX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BSBR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BSM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"BST",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"BXDC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"BXSL",
+    "Ticker":"CANG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CCJ",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CCK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CDP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CEPU",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CFND",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CHE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"CII",
+    "Ticker":"CHH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CIMN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CLPR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CNH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CNR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"CNX",
+    "Ticker":"CNS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"COLD",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CON",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"COSO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"CP",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CPAC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CPNG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CQP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CRK",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"CSAN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CTGG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CTHH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"CURB",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CVI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CVLG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CVSA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"CWH",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"CXM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"DB",
+    "Ticker":"CXW",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"DCI",
+    "Ticker":"DBL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"DDS",
+    "Ticker":"DBRG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"DDT",
+    "Ticker":"DHX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"DEC",
+    "Ticker":"DINO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"DIN",
+    "Ticker":"DK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"DLB",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"DNOW",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"DNP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"DOLE",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"DT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"DXYZ",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EARN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EBS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"ECAT",
+    "Ticker":"ECC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"EDD",
+    "Ticker":"EDU",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EIC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EIG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ELF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"ELLA",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"ELME",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EMF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EMO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"ENR",
+    "Ticker":"EMP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"ENS",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EPAC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"EPC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EPD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ESNT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ET",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"ETB",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EVG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"EVH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"EVT",
+    "Ticker":"FAF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"FBRT",
+    "Ticker":"FGSN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"FIGS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"FLS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"FMC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"FPF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"FPI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"FRA",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"FSK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GAP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"GATX",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GEL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GEO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"GHG",
+    "Ticker":"GF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GIC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GLAS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GNT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"GPJA",
+    "Ticker":"GPK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GPOR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GPRK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GRBK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"GWRE",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"GXO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"HCI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"HGTY",
+    "Ticker":"HGLB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"HIPO",
+    "Ticker":"HLI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"HL",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"HLN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"HNGE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"HNI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"HTGC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"HTT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"HZO",
+    "Ticker":"IBN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"IDE",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IGA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IGI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IHD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IHG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"IIPR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"ING",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"INGM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"IOT",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"IQI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"IRS",
+    "Ticker":"JAN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"JCE",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"JELD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"JMIA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"JOF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"JXN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"KB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"KBR",
+    "Ticker":"KF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"KEP",
+    "Ticker":"KMPB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"KMPR",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"KNOP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"KNTK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"KT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"KYN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"LAC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LCLN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"LDP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LEO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LFT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LMND",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"LND",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"LNG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"LVWR",
+    "Ticker":"LXP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"LW",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"MATV",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MBGL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"MD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MED",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"MHF",
+    "Ticker":"MEI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"MIY",
+    "Ticker":"MFAN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"MOH",
+    "Ticker":"MFAO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"MMS",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MPLX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"MSD",
+    "Ticker":"MRP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"MT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MTG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MUFG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"MUX",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"MXF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"NBB",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"NFG",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"NGL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"NMR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"NOAH",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"NPFD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"NRDY",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"NRP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"NU",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"NUVB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"NVRI",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"NXP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"NYT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"OI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"OIA",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"OLP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"OPAD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"OPTU",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"OSK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"OWL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"OXM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PAC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"PAG",
+    "Ticker":"PARR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"PAGS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"PATH",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PCF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PCN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PDCC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"PDM",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"PEO",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"PERF",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PGP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"PJT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"PNNT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PPLC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PRGO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PRSU",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"PRT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PSN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"PSTL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"PTY",
+    "Ticker":"PVL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"PXED",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"QTWO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"RCD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"RCI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"RGA",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"RGT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"RMT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"RNR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"RRC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"RSI",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"RVT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"RYAN",
+    "Ticker":"RXO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SAM",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SAN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SAV",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SBH",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SBR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SCI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"SECZ",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"SFB",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SHG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SID",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SJT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SLG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SLGN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SMWB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SOJD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SOR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"SPE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"SR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"STAG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"STK",
+    "Ticker":"STDN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"STN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"STVN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"SUI",
+    "Ticker":"SWZ",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"SUPV",
+    "Ticker":"SXC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"SXT",
+    "Ticker":"TAC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"TBB",
+    "Ticker":"TDF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TECK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"TFPM",
+    "Ticker":"TEI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TFX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"THG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TIC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TIMB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"TR",
+    "Ticker":"TOST",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"TRIN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TRLV",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TRNI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"TSI",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TTC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"TUYA",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"TWI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TWLO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"TWN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TWO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TWOD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"TXO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"UBS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UGI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UHT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UNM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"USAC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Rathod Bullish",
+    "Ticker":"UTF",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UVE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"UZE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"VAC",
+    "Ticker":"VACI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"VBF",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"VG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
-    "Ticker":"VHI",
+    "Ticker":"VGNT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"VLN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"VMO",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"VOYA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"VSXY",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"VYX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"WEAV",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"WHG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"WLKP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WNC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WOR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WTM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Rathod Bullish",
     "Ticker":"WTRG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
-    "Scan":"Rathod Bullish",
-    "Ticker":"WTS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"XFLT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Rathod Bullish",
-    "Ticker":"XRN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Scan":"Momentum Scan",
+    "Ticker":"SJM",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Momentum Scan",
     "Ticker":"ANF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bullish",
-    "Ticker":"IVZ",
+    "Ticker":"AWK",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bullish",
-    "Ticker":"MRSH",
+    "Ticker":"GIS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bullish",
-    "Ticker":"NDAQ",
+    "Ticker":"PFE",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bullish",
-    "Ticker":"PLTR",
+    "Ticker":"ROP",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bullish",
-    "Ticker":"SLB",
+    "Ticker":"AFGC",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"EDU",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"FGSN",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"PVL",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"RNP",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"TPB",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Dual BB 15min Bullish",
+    "Ticker":"VACI",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"Dual BB 15min Bearish",
+    "Ticker":"ES",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"AG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"BHVN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"BLSH",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"CIMN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"FSM",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"GLAS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"GNT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"GOLD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"NOAH",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"PJT",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"SKE",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bullish",
-    "Ticker":"STVN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"AMZN",
+    "Ticker":"HD",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"Q",
+    "Ticker":"NRG",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"TTD",
+    "Ticker":"LUV",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"WY",
+    "Ticker":"VMC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"ALX",
+    "Ticker":"AFB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"AMBQ",
+    "Ticker":"AWP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"AMPX",
+    "Ticker":"BXC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"ARLO",
+    "Ticker":"CATO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"ASPN",
+    "Ticker":"DMO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"BETA",
+    "Ticker":"DTB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"BN",
+    "Ticker":"EQBK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"BNH",
+    "Ticker":"ETY",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"BZH",
+    "Ticker":"FFC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"CABO",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"CYH",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"DDD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"DFP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"EVC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
     "Ticker":"FPH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"GPMT",
+    "Ticker":"FSS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"ISD",
+    "Ticker":"GROV",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"JOBY",
+    "Ticker":"HLIO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"KFRC",
+    "Ticker":"KAI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"LPX",
+    "Ticker":"MEGI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"MGRE",
+    "Ticker":"MIR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"MUA",
+    "Ticker":"MSD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"MX",
+    "Ticker":"MWA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"NEA",
+    "Ticker":"NNY",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"NMZ",
+    "Ticker":"PFN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"NUV",
+    "Ticker":"PSBD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"PL",
+    "Ticker":"SMBK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"PML",
+    "Ticker":"TSQ",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"RDW",
+    "Ticker":"VBF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Dual BB 15min Bearish",
-    "Ticker":"RQI",
+    "Ticker":"VFC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"RYN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"STM",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"SUNB",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"TCI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"TDS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"TROX",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"UAMY",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"UNF",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"UTI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"WFG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"WIA",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"WPC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"YSG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"Dual BB 15min Bearish",
-    "Ticker":"YSS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"APD",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"MO",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"APO",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"ADM",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ARES",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ANET",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"T",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BIIB",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"BLK",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BNY",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BMY",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"BG",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BXP",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CHRW",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CVNA",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"COR",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CNC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CI",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CEG",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"CSX",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DVA",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DELL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DASH",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ECL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EIX",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ETR",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EQT",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EQIX",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EG",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EXE",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EXPD",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FDX",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FOXA",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FOX",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BEN",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"FCX",
+    "Ticker":"GEN",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GPC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GILD",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"GS",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"HAS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"HSIC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"HUM",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"INCY",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IBKR",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IFF",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IVZ",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"JKHY",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KMI",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LITE",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MRVL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MCK",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MRK",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MRNA",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MCO",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MSI",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NFLX",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"NDSN",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NSC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"OKE",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ORCL",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"PSKY",
+    "Universe":"S&P 500",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PFE",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PCG",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PM",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"RDDT",
+    "Ticker":"QCOM",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"RMD",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"RVTY",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"HOOD",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SBAC",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SJM",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"SOLV",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"STT",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SMCI",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SNPS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TMO",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"UBER",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"UNP",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"UPS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"VRSN",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"VZ",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"VTRS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"WAB",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"WAT",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"WDC",
-    "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"WMB",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AAMI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ACA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"AD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AFGC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AGCO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AHR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"AII",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ANDG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ANF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"APAM",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"APOS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"ARX",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ASA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"ASIC",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AVNT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AVTR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"AWF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BARK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BDN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BGT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"BGY",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BHVN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BIO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"BIPI",
+    "Ticker":"BIPH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BKH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BLSH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"BME",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BMNP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"BNED",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BNS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BOE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"BRCC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BST",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"BXDC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CCJ",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CDLR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"CIMN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"CLPR",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CPAC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"CPNG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"CRK",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CTGG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CTHH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CURB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"CVI",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"CVSA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"CWH",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DEI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DHX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DNOW",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DNP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DPG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"DXYZ",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EBS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"EE",
+    "Ticker":"EDU",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ELAN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"ELF",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EMF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EMO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"ENR",
+    "Ticker":"ENS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EPD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"ERO",
+    "Ticker":"ET",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ETB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"ETD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ETW",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EVG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"EVH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"EVT",
+    "Ticker":"EVMN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"FGSN",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FINS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"FLO",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FLS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FMX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FPF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FRA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FSK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"FSM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GAB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GAP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GATX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GEL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GLAS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GNT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GPJA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"GSBD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"GXO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"HCI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"HKD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"HLN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"HTD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"HTGC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"HTT",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IAE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"IDE",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IGA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IGI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IHD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IHG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"IIM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"INGM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"JAN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"JMIA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"JOF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KIO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KKRT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KMX",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KNOP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KNTK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"KYN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LAC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"LCLN",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LDP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LEO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LEU",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LFT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LMND",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LNG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"LVWR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"MIY",
+    "Ticker":"MED",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"MFAN",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"MFAO",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MMT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"MP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"MSD",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"MT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"MYN",
+    "Ticker":"MUJ",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"NBB",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NFG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NGL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"NMAI",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NMR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"NOAH",
+    "Ticker":"NOK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NRP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NU",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NUVB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"NUW",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"NVO",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"NVS",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NXP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"NYT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"OGS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"OIA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"ONT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"OPAD",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"OPTU",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"OR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"OWL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"OXM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PAG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"PATH",
+    "Ticker":"PCF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"PDM",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"PDT",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PGP",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PNNT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PRGO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PSQH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"PSTL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"RC",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"RCI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"RFL",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"RGA",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"RHLD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"RHP",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"RLTY",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"RNR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"RRC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"RVT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"SAV",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SBR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SCI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SFB",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SHG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"SII",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SJT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SLG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"SMG",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"SMWB",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"SOBO",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SPE",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SPOT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"STAG",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"STDN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"STK",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"STN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"SUI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"TAK",
+    "Ticker":"TAC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TECK",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TEVA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TFPM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"THQ",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TISI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
-  },
-  {
-    "Scan":"BullBhai Bullish Momentum",
-    "Ticker":"TRIN",
-    "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TRLV",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"TRNI",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"TSI",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TWN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TWO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"TWOD",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"UBS",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"UGI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"UI",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"UNM",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"UNMA",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"USAC",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
+  },
+  {
+    "Scan":"BullBhai Bullish Momentum",
+    "Ticker":"UTF",
+    "Universe":"Russell 2000",
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"VLN",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"VNO",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"VPV",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"WF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"WH",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"WT",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"BullBhai Bullish Momentum",
     "Ticker":"XIFR",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Short Term Breakout",
     "Ticker":"ANF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"100% Buy Breakout",
     "Ticker":"ANF",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Possible Bottom Out (Weekly)",
     "Ticker":"CTAS",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Possible Bottom Out (Weekly)",
     "Ticker":"UNH",
     "Universe":"S&P 500",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   },
   {
     "Scan":"Possible Bottom Out (Weekly)",
     "Ticker":"GPI",
     "Universe":"Russell 2000",
-    "Updated":"2026-08-26 14:57"
+    "Updated":"2026-08-26 16:47"
   }
 ]
