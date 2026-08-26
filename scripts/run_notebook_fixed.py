@@ -48,7 +48,7 @@ def should_skip(source, idx=None):
         return False
 
     # Explicitly skip cell 9 and cell 10
-    if idx in ( 14,15):
+    if idx in ( 25,30):
         return True
 
     # Remove the old standalone keep-alive reference.
