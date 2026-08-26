@@ -45,7 +45,7 @@ def upload_scan_records(
 
     get_supabase().table("scan_results").upsert(
         records,
-        on_conflict="run_id,ticker,scan_name,universe",
+        on_conflict="ticker,scan_date,universe,scan_name",
     ).execute()
 
     return len(records)
