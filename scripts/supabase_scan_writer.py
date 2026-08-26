@@ -23,30 +23,39 @@ def upload_scan_records(
 ) -> int:
     """Insert/upsert scan hits and return the number of records submitted."""
     now = datetime.now(timezone.utc)
-    run_id = run_id or os.environ.get("GITHUB_RUN_ID") or now.strftime("%Y%m%dT%H%M%SZ")
+    active_run_id = str(run_id or os.environ.get("GITHUB_RUN_ID") or now.strftime("%Y%m%dT%H%M%SZ"))
+    scan_date_iso = now.date().isoformat()
+    scanned_at_iso = now.isoformat()
 
-    records = []
-    for row in rows:
-        records.append(
-            {
-                "run_id": str(run_id),
-                "scan_name": str(row["scan_name"]),
-                "ticker": str(row["ticker"]),
-                "universe": str(row["universe"]),
-                "market": market,
-                "timeframe": timeframe,
-                "scan_date": now.date().isoformat(),
-                "scanned_at": now.isoformat(),
-            }
-        )
+    records = [
+        {
+            "run_id": active_run_id,
+            "scan_name": str(row["scan_name"]),
+            "ticker": str(row["ticker"]),
+            "universe": str(row["universe"]),
+            "market": market,
+            "timeframe": timeframe,
+            "scan_date": scan_date_iso,
+            "scanned_at": scanned_at_iso,
+        }
+        for row in rows
+    ]
 
     if not records:
+        print("ℹ️ No records to upload.")
         return 0
 
-    get_supabase().table("scan_results").upsert(
-        records,
-        on_conflict="ticker,scan_date,universe,scan_name",
-    ).execute()
+    print(f"Uploading {len(records)} records to Supabase...")
+
+    try:
+        get_supabase().table("scan_results").upsert(
+            records,
+            on_conflict="ticker,scan_date,universe,scan_name",
+        ).execute()
+        print(f"✅ Successfully uploaded/upserted {len(records)} records.")
+    except Exception as e:
+        print(f"❌ Failed to upload records to Supabase: {e}")
+        raise
 
     return len(records)
 
